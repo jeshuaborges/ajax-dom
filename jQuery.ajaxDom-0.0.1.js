@@ -1,3 +1,7 @@
+// jquery.ajaxDom-0.0.1.js
+// copyright jeshua borges
+// https://github.com/defunkt/jquery-pjax
+
 // USAGE:
 //  <div id="report" data-ajax-dom="#report .results ^= path.to.fragment">
 //    <a href="/pull_results" data-remote="true">get</a>
