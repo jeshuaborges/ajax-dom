@@ -1,6 +1,6 @@
 // jquery.ajaxDom-0.0.1.js
 // copyright jeshua borges
-// https://github.com/defunkt/jquery-pjax
+// https://github.com/jeshuaborges/ajax-dom
 
 // USAGE:
 //  <div id="report" data-ajax-dom="#report .results ^= path.to.fragment">
